@@ -1,0 +1,1556 @@
+[Players: B, R, G.]
+[From far left, clockwise.]
+
+[Video ⅓ starts.]
+
+[Game begins.]
+
+[B’s turn begins.]
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: So I’m gonna start the timer.
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: Now what should I do?
+[IA: N] [PFH: N] [TP: Y] [P] [B]: Should I give you a card so that you have one?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Sure.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Oh no, ok.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: So I need to move this to another city?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: But I would stay in blue because we can’t wipe anything out if you go out of blue so I would stay or go to Washington or New York.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: You can even go to London.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Alright.
+[IA: N] [PFH: N] [TP: Y] [B] [B]: I can.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: But it has to be on that you’re in.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: You can take up to four actions within that minute, so you can look at your action card, you can do.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Doing stuffs.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Discard a card to move your pawn, ok.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: So you can do that.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: So I can just?
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: What did I give you?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: One of the blue ones.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Which one did you have?
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Chicago.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: So I need to go to Chicago.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: It’s right there.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok, yeah.
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I get three more actions?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You have thirty seconds.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: But then I can?
+[IA: N] [PFH: N] [TP: Y] [B] [B]: I don’t know.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I don’t like this game.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: There’s too many instructions.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Alright, ok.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I’m gonna just stop it, ok?
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: You’re good.
+[IA: N] [PFH: N] [TP: Y] [B] [B]: All good.
+
+[Timer stops.]
+
+[IA: Y] [PFH: N] [TP: N] [D] [R]: So now you get two.
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: I get two cards.
+
+[IA: Y] [PFH: N] [TP: N] [B] [R]: You should have.
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: Sao Paulo and New York.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Good!
+[IA: Y] [PFH: N] [TP: N] [P] [G]: Can I go next cause I’m a medic so I can take any cards.
+
+[IA: N] [PFH: N] [TP: N] [B] [B]: Right.
+
+[IA: Y] [PFH: N] [TP: N] [P] [G]: I can remove all cubes of a single color in a city so we can take all these out.
+
+[IA: N] [PFH: N] [TP: N] [B] [B]: Oh.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: And then blue is done.
+
+[IA: Y] [PFH: N] [TP: N] [D] [R]: Yep.
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[IA: N] [PFH: N] [TP: N] [D] [G]: And give me that blue one.
+[IA: N] [PFH: N] [TP: N] [P] [G]: And now we can put this here.
+
+[IA: Y] [PFH: N] [TP: N] [D] [R]: What about mine?
+
+[IA: N] [PFH: N] [TP: N] [D] [G]: Yeah give me that one too.
+[IA: N] [PFH: N] [TP: N] [B] [G]: Ok.
+[IA: N] [PFH: N] [TP: N] [D] [G]: Oh I forgot to start the timer.
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Alright, ok.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: So I treated a disease.
+[IA: N] [PFH: N] [TP: Y] [B] [G]: And now.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Oh I discovered a cure actually.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: Ok so that’s all I can really do, right?
+[IA: N] [PFH: N] [TP: Y] [D] [G]: After I cured a city?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: You can grab those cards though.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Oh yeah.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: I’ll just stop that and grab two.
+
+[Timer stops.]
+
+[IA: N] [PFH: N] [TP: N] [D] [G]: Go ahead Emma.
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer begins.]
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Do you want me to start the timer?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok so I have two cards here, so.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: You have one yellow.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Mhm.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: And you have one grey.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I’ve got one grey as well.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I might give you yellow.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Can I do that?
+[IA: N] [PFH: N] [TP: Y] [P] [R]: You can do that, right?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Can you just?
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I can give player cards for one action per card because I’m the researcher.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I only need four cards of the same color to discover a cure.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Can I take that card?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I have two too.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You have three, you don’t have four.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I don’t want to move, right?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You do because we’re done with blue.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Ok so can you?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: How do you move?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: I’m lost.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Alright hold on here.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Do you want me to move?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: You can move for one action, like your basic action, move your pawn to an adjacent city, or a direct flight.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: You have to discard your card for a flight.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: You can discard your card and you can go anywhere.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: So maybe get rid of the yellow.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Get rid of the yellow because you don’t have any yellow.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: And I only have one.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: So where do I put it, here?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Yeah, discard there.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Here, yeah, like that.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: But then how are we going to get yellow out?
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: If we put it in the discard pile.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: We’ll have to draw a bunch of yellows.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Oh well she can do four.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Wait, so I can move to an adjacent city, that’s it, right?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: You can go on a flight.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: No, you can go anywhere you want.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Discard a card.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Or if you wanted to keep yellow you could move.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Oh, oh, oh, ok, no.
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: You can go to LA because it’s the card that you discarded.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Ok, oh, you’re out of time, that was quick.
+
+[Timer ends.]
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Ok.
+
+[IA: Y] [PFH: N] [TP: N] [D] [B]: So now draw two more.
+[IA: Y] [PFH: N] [TP: N] [D] [B]: Oh, we’re supposed to draw these two.
+
+[Epidemic card drawn.]
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: I got an epidemic card, wait, I got one of these too.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: Oh no.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: What’d you get?
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: An epidemic card.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: What did she say when that happens?
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Increase.
+[IA: N] [PFH: Y] [TP: N] [D] [R]: Move the infection rate indicator by one.
+[IA: N] [PFH: Y] [TP: N] [P] [R]: So you can move it here.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Ok.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: And then you draw two cards.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Remember, you put it underneath there.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: This one, right?
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Yeah, you put it underneath there.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: And then you take two from the top.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: No, not that.
+[IA: Y] [PFH: Y] [TP: N] [P] [B]: The epidemic card itself, I believe.
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: Oh is that?
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: Hold on.
+[IA: Y] [PFH: Y] [TP: N] [P] [B]: Oh, I guess, I don’t know.
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: I don’t know.
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: And then we have to put those on top?
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: You have to take two.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: We shuffle them, don’t we.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: Cause it says two right here.
+[IA: N] [PFH: Y] [TP: N] [B] [R]: What?
+[IA: N] [PFH: Y] [TP: N] [D] [R]: Oh wait, we’re infecting two cities now with.
+[IA: N] [PFH: Y] [TP: N] [D] [R]: Ok, Miami and Mexico City.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Ok good, they’re yellow.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: So they each need.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Cause we’re gonna wipe em out.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Oh you got em.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Where’s Miami?
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Oh you draw the bottom card off the infection deck.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: Ok, there’s two, and then.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Well, she took the top.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: And place.
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Oh, ok, that’s fine.
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: And then place three cubes in that city.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: There’s Miami.
+
+[IA: Y] [PFH: Y] [TP: N] [P] [G]: We’ll she put two cards, should she have only pulled one?
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Mexico City.
+[IA: N] [PFH: Y] [TP: N] [B] [R]: It said two.
+[IA: N] [PFH: Y] [TP: N] [D] [R]: You go by the number.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Oh, ok.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [R]: So then there, and then I take these.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [B]: No, ok.
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: Advance the infection rate marker, draw the bottom card of the infection deck, and place three cubes in that city.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Only one.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Just put three in the first one.
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: In Miami.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Ok.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [B]: And now we have to shuffle all these up again.
+
+[IA: N] [PFH: Y] [TP: N] [B] [R]: Here.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Ok.
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Alright.
+
+[IA: N] [PFH: Y] [TP: N] [D] [R]: This is the best.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: We went over our time.
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: I’ll start it again.
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Are you ready?
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Ok, wait.
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: Yeah.
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Then we draw this one, is that what this is?
+[IA: N] [PFH: N] [TP: Y] [D] [B]: That’s what it says.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Well we’ve already wiped out blue.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: So it doesn’t matter, right?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: Yeah it doesn’t matter, I don’t think.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: That was hard.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Ok, now you can pull another card.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Oh, it’s my turn.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Doesn’t she pull another card?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: I already pulled two.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Ok.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: She already pulled two.
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: We’re supposed to have seven at each time, you guys.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Well you took three.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: I took.
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: I think we all need seven.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: What can I get rid of?
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Ok, we have three red.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: I have a red.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: What’s your power?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I’m a researcher.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: I can wipe out four at a time.
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: Can I take four?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Don’t you have to wait our turn?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: You guys should give me the reds.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I can do that with this one.
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: That’s one action.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Cause that’s.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You’ve got fifty seconds.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I can.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I don’t know.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Can you move?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Yeah I can move.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: We should all be together.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Should we, where should I go?
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Can we be together?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: It says if we’re together, we can wipe out a whole, we can do something, right?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Alright, I’ll go to LA then.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Oh, research station.
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: What can we do with that?
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: You can move to a research station with your pawn containing, in a city containing a station.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Yeah but we’ve already wiped out blue.
+
+[Timer ends.]
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok, then I think I’m gonna give these, can I give two cards?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I don’t know if you can because you don’t have the same powers I do.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: My power is just to remove all cubes.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: So maybe when you, on your next turn, you give me one red, and then you go.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: It is my turn.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I don’t think you can just hand cards to anybody.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I’m the only one who can do that.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Oh.
+[IA: N] [PFH: N] [TP: Y] [P] [G]: So what should I do?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Cause, or.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: You can discard a card.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: It says I can share knowledge.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Share knowledge, share knowledge.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: From one player to another.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok, so.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Both players pawns must be in the same city shared on that card.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok so first I need to move to your city.
+[IA: N] [PFH: N] [TP: Y] [P] [G]: But can I go there from here?
+[IA: N] [PFH: N] [TP: Y] [D] [G]: But we’re all in Atlanta.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: I can go here.
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: You have to discard, ok.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: And I’m gonna give you, I can only give one at a time.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: Ok so, yeah, so, we can get four.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Yeah, so this counts as two actions to go here, here, so then you used two.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok so I’ve already used three.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Three, ok, so now you have one left.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: You get two cards, ok.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok, now your turn.
+
+[Timer ends.]
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok so now we’re going to knock out this disease because I have the power to discover a cure with four cards.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Red’s cured.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Nice.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Do we just take these out?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Yeah.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: All, all red is gone.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: So now we have two more diseases to cure.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Go team.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Alright.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You’re going, your minute is going.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: What else do you want to do?
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Who has grey, do you have greys?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I have one, yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: And I have one.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Here, I’ll give you one.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Cause I have a share knowledge.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Can you just give cards?
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I discovered a cure, so I have two actions left.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Here, share knowledge.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Both players pawns must be in the city pictured on the card that is passed.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: But we’re all in the same.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Oh the one that is passed?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: No, no, she has to be in Istanbul for me to .
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Uh, oh, we cheated.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Yeah that’s why I said we had to be in.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: We lost.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Cause we don’t know what we’re doing.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: She said it’s fine if we break the rules.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Ok, we win.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Right?
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We cured all four.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I can pass.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: There’s too many directions.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I can give cards, but you can’t just give me all your cards.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: I thought it said it was a basic action.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Try do discard it, if you discard it, so like you can move your pawn to an adjacent city, or discard a card, direct flight, you discard a card and move your pawn to the city pictured on it.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: So we have to get in the same city, so.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We’re all in the same city.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: That’s on the card.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Do we have that?
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: What happened to the LA card?
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Oh, it’s right there.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: We need that card.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: We can take it back.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: We all need to move to like Mexico City or something.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Ok, why don’t you turn our flight?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: So just move your pawn to Mexico City and then we’ll go there.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: We haven’t used that one yet, right?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Ok, now it’s your turn.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You’re out of time.
+
+[Timer ends.]
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: We haven’t seen Mexico City yet, right?
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I saw Mexico City, because it was supposed to be infected, but it’s in that pile.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We didn’t use it though, we used one.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: Should we all move to Colombia?
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Ok, I’ll move to Mexico City as one.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: Should I give you?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Who has yellow?
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We all need seven cards.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I can give you this one.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Oh yeah.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Perfect.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Grey, grey.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: I think we’re forgetting to pull cards.
+[IA: N] [PFH: N] [TP: Y] [P] [G]: I think we should pull cards.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We all need seven.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: One, two.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: No, you can have up to seven.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Oh.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I don’t think you.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I thought she said that after that we all need seven.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: You can’t have more than seven, I think.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: But you can only take two at a time.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok, you’re right, you’re right.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We’ll I’m all the way in fricking.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: It’s ok, we’ve already wiped out two cities so two to go.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Alright, I’ll just end my turn and take two cards.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I don’t know, what can I do?
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Yeah, we don’t have any yellows.
+
+[Timer ends.]
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: Let’s see what I got.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: You got a yellow!
+
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: Special event, what is this?
+
+[IA: Y] [PFH: N] [TP: N] [D] [R]: We’ve got a special event over here.
+
+[IA: N] [PFH: N] [TP: N] [D] [B]: Move a pawn, yours or another players, to any city, you must have a player’s permission to move their pawn.
+
+[IA: Y] [PFH: N] [TP: N] [P] [G]: You should move me to Mexico City.
+
+[IA: N] [PFH: N] [TP: N] [P] [B]: Oh I can play this at any time, it doesn’t require an action.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Oh.
+[IA: Y] [PFH: N] [TP: N] [P] [G]: You should save him.
+
+[IA: N] [PFH: N] [TP: N] [B] [B]: I’ll save that.
+[IA: N] [PFH: N] [TP: N] [B] [B]: Ok.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: Cause I’m already adjacent to you.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Should I go?
+
+[IA: Y] [PFH: N] [TP: N] [B] [R]: Yeah.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Yeah?
+
+[IA: N] [PFH: N] [TP: N] [B] [B]: Yeah yeah.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Ok.
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: My first action, I’m just gonna move to Mexico City with you guys.
+[IA: N] [PFH: N] [TP: Y] [B] [G]: My second action.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: I’ve got two here.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: And I give you that.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Perfect.
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: So I can cure a disease.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok my third action.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Oh wait, I’m not allowed to move cards.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: No.
+
+[End of video ⅓.]
+
+[Start of video ⅔.]
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: I thought you could share you.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: We have to be in Tairu.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Ok, I’m just gonna grab two cards.
+
+[Timer ends.]
+
+[IA: Y] [PFH: N] [TP: N] [D] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Ok.
+
+[IA: N] [PFH: N] [TP: N] [D] [G]: Oh why did I get another blue?
+
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Government grant.
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Research.
+
+[IA: N] [PFH: N] [TP: N] [B] [G]: Cool.
+[IA: N] [PFH: N] [TP: N] [P] [G]: So should I do that right now?
+[IA: N] [PFH: N] [TP: N] [D] [G]: What does the research do?
+[IA: N] [PFH: N] [TP: N] [D] [G]: Why do we want that?
+
+[IA: Y] [PFH: N] [TP: N] [P] [R]: I don’t think it helps us.
+[IA: Y] [PFH: N] [TP: N] [D] [R]: Ok so take four actions, and then you draw two cards, and then play the infector.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: Alright, go ahead [name].
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Well, my first action, we’re all in the same city, I can move mine over here somewhere.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I’ve got these two.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: And then we can meet in that one.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: I don’t know.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Should I move across the board?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Can two fly?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I think so.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Yeah, you can do a direct flight.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Direct flight?
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: You have to discard.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You have to get rid of a card.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: You have to get rid of the Istanbul one to go there, right?
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Ok.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Shit.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Now we’re not knocking out our diseases here.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Well we’ve got two yellow.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Alright um.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Discard five cards of the same color, build a research station.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I might as well build a research station cause, and I’ll build it.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: No cause that was a special action.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: How do you gain a special action?
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I asked her when you could use special and she said whenever.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Really?
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Build a research station.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Oh but you can share cards.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I’ll go ask her.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: But it says must be in the city pictured on the card that is passed.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Oh.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Says it right underneath there.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Well I moved to Istanbul, so we’re close to.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Well now we’re not all together.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Ok, I don’t know.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: But I can move to any city with this.
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[Timer starts.]
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Ok, why don’t you go to Istanbul now.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I guess I discard that.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Alright, take some more actions here.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: What else should I do?
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I’ll just take two more cards, I guess.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I just don’t have enough cards.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: I keep getting these grey ones.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Oh good, we almost have four.
+
+[Epidemic card drawn.]
+
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Ooh, Epidemic.
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Damnit.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: Alright so who gets infected?
+
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Move the infection rate by one.
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Draw a card at the bottom of the infection draw pile and infect the.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [G]: I thought we put that there.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: We can’t do that.
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Oh.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: Where’s this guy supposed to be?
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: I think right.
+
+[IA: N] [PFH: Y] [TP: Y] [P] [B]: Probably not there, yeah.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [G]: Ok.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: We’ll take that one.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: Alright we have Santiago.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Oh shit we’re there.
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Ok.
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Draw.
+[IA: N] [PFH: Y] [TP: Y] [P] [B]: It says with three twos but we can only do.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Two.
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: It’s right here, the infection rate.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: No right here it says.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Three?
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Infect the indicated city with three cubes.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Ok.
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Santiago.
+
+[IA: N] [PFH: Y] [TP: Y] [P] [B]: So you can only have three in one city, right?
+[IA: N] [PFH: Y] [TP: Y] [P] [B]: So then you would put one in Lima.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: And one in.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [G]: But you can put two in Lima.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: We really need yellow.
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: We need four over here.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Put the infection discard pile.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: We’re out of time.
+
+[Timer ends.]
+
+[IA: Y] [PFH: Y] [TP: N] [B] [G]: Take two cards.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [R]: What about this one?
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: Put it here?
+
+[IA: N] [PFH: Y] [TP: N] [P] [B]: I think you shuffle all those?
+[IA: N] [PFH: Y] [TP: N] [B] [B]: I don’t know.
+[IA: N] [PFH: Y] [TP: N] [D] [B]: It says shuffle the infection discard pile and place it on top of the infection draw pile.
+[IA: N] [PFH: Y] [TP: N] [P] [B]: Oh, so we shuffle these, I guess, and put them right there.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: But the blue one’s mixed in.
+
+[IA: N] [PFH: Y] [TP: N] [B] [B]: What’s that?
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: The blue one is mixed in.
+
+[IA: N] [PFH: Y] [TP: N] [D] [B]: Are those supposed to be in there?
+[IA: N] [PFH: Y] [TP: N] [P] [B]: Well no, you can’t have the epidemic card.
+
+[IA: Y] [PFH: Y] [TP: N] [P] [R]: I think those go in the discard pile.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Ok, so now I’ll go.
+
+[IA: N] [PFH: Y] [TP: N] [B] [B]: My turn’s over.
+
+[IA: Y] [PFH: Y] [TP: N] [D] [G]: Oh, I already drew.
+
+[IA: N] [PFH: Y] [TP: N] [D] [B]: You ran out of time.
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer begins.]
+
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: So you can move cities now.
+
+[IA: N] [PFH: Y] [TP: N] [P] [G]: So I, I think I’m gonna just.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: You can take.
+
+[IA: N] [PFH: Y] [TP: N] [P] [G]: I don’t know if I was supposed to do that.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: Yeah, you can.
+
+[IA: N] [PFH: Y] [TP: N] [B] [G]: Ok.
+[IA: N] [PFH: Y] [TP: N] [D] [G]: And then, I’m gonna pull two cards.
+[IA: N] [PFH: Y] [TP: N] [D] [G]: All blue and black.
+[IA: N] [PFH: Y] [TP: N] [D] [G]: We don’t need the blue.
+
+[IA: Y] [PFH: Y] [TP: N] [P] [R]: Well you can give me cards.
+[IA: Y] [PFH: Y] [TP: N] [D] [R]: We’re in the same city.
+
+[IA: N] [PFH: Y] [TP: N] [D] [G]: Yeah I’m gonna give you these two.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: Can you?
+
+[IA: N] [PFH: Y] [TP: N] [D] [G]: Yeah cause now we’re in the same city.
+
+[IA: Y] [PFH: Y] [TP: N] [B] [R]: Ok.
+[IA: Y] [PFH: Y] [TP: N] [D] [R]: Now what else are you going to do?
+
+[IA: N] [PFH: Y] [TP: N] [B] [G]: Now I’m done.
+[IA: N] [PFH: Y] [TP: N] [B] [G]: Your turn.
+
+[Timer ends.]
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok well I’m going to knock out an infectious disease.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Yeah.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Knock out black .
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Damn.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: We’re almost done.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: We’re gonna win!
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Maybe.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: If we didn’t cheat already.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I think we cheated.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I don’t know, maybe we’re missing a couple steps, but.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Alright.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Good.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: We’re almost done.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Fair enough.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: But she said it’s supposed to take an hour and a half.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Well we’re gonna be done, we’re gonna beat it.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Did you pick two cards?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: No, I need two.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: More blue.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We don’t need blue, we worked that out.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: So now we only have to do yellow and orange.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: What do these do?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Yellow and orange?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Yellow and orange.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: We just have one.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: So we can go back.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Meet me in that city.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Why don’t you fly?
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok, I’ll fly.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I’ll fly over to, which one should I fly to, this one?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Yeah.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I don’t think we’re playing right.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Your turn.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Oh I see.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Ok.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I took a direct flight so I’m gonna have to discard a card to move the pawn.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You have to do a black but you don’t have any.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: So you shouldn’t have taken that flight.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Cause you can’t.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: It says, it says if you want a direct flight, discard a card to move your pawn to the city pictured.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: So I wasn’t supposed to come here either, right?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: No, I took you there.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Ok.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Thanks.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: With that uh.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I don’t think I was supposed to go there the first time.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Oh.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Alright.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Yeah we haven’t done, we haven’t put these outbreak things though.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I think we just move it, right.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: How many did we?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We put two, right?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I’ll put that there.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Ok.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Your turn.
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: I’ll start you.
+
+[Timer ends.]
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Yeah, so what I want to do is.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I think you should try to pull, get some more yellows.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Just keep pulling cards?
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I don’t get to take any turns?
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I mean what would moving around help me?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: Technically, I can cure the diseases though, if I have four cards.
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: It just depends if we’re passing correctly.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Correct.
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: But if I have four of the same color I can cure a disease.
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: So I need four yellow.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I got three yellow.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: And a special event.
+[IA: N] [PFH: N] [TP: Y] [D] [B]: The next player to begin playing the infector phase of their turn, they may skip that phase entirely.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Oh so that card.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: I have one too, a special event.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Wait, can these cities get reinfected?
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: After we’ve cured them?
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: I don’t know.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Should I ask her?
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Yeah, maybe.
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I think once you cure it though, it’s cured, right?
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I think, no, I think so.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Ok so if there’s an outbreak occurs, if you have a cure, to a city that already has three cubes in it?
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: So that means if we had to add three here, so we’re good.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Oh, ok.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: We’re doing good.
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I think, I don’t know.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: I think we’re just losing.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I have a feeling that her research is just a small portion to do with this game like one portion of us.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: It’s probably not the game, it probably has something to do with the.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: I know.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Ok, I already did.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: It’s ethics, cause I know she’s doing research in robot ethics, so like are we being ethical?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Definitely not being ethical.
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Ok, how do we?
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Who’s turn is it?
+[IA: N] [PFH: N] [TP: Y] [B] [B]: Do I go?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Your turns up, I think.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Ok, I didn’t stop it.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Timer?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Ok, who’s turn is it?
+
+[IA: N] [PFH: N] [TP: Y] [P] [B]: I just picked these cards so I guess it’s your turn.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: No I go after you.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Yeah it’s your turn.
+
+[Timer ends.]
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: I have no cards.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: You need to pull cards then.
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: You need to have seven.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Ok.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: You can give a card as your second move.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Oh we’re all in Santiago, I think you can give a card.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Ok.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: We’re not in Santiago, the disease is in Santiago.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Oh.
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I’m not sure, nevermind.
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: But I can go there.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Oh no but if I go there then I have to give up the card.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: So I don’t want to do that.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Right.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: So how do I get this to [her]?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: You just hand it to her.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: As easy as that.
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Discard a card, move your pawn to an adjacent city.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Although I’m the one with three of them so you might wanna.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Oh no, I’ll just discard this city, and then I’ll be adjacent.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: So I’ll discard this.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Where’s Milan?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: I’ll just give them to you.
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: I can give all three to you.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Yeah.
+[IA: N] [PFH: N] [TP: Y] [P] [G]: You give them to [her].
+[IA: N] [PFH: N] [TP: Y] [P] [G]: Cause she can use three, four.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Ok.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Where’s Milan?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Milan is in Italy.
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Right there.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Oh, ok, that didn’t help me much.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Well you had to go there.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Now is it my turn?
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Mhm.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Will you hit the timer?
+
+[Timer ends.]
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I’m gonna pull two cards just to see what I get here.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I got a special event.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Take a card from the infection discard pile and remove it from the game.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Can I do that?
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I thought this was the infection discard pile.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Oh.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We don’t have any cards in there.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: That one is a blue one, so it doesn’t matter.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Those are the, the epidemic cards are in there.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Take a card from the infection discard pile and remove it from the game.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: What’s the infection discard?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: So this one.
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: So now we won’t get one.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Alright.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: So that’s one action.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Can I fly somewhere?
+[IA: N] [PFH: N] [TP: Y] [B] [R]: It says.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Hold on, I can give up these cards because they don’t mean anything.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Discard a card for the city pictured on it.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Oh I don’t want to move to London, though.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Would that make me closer to you?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: No, not really.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: We’ll put you here.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: A little bit.
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: But then you can go right there.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok, yeah.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We’re trying to cure a disease here.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok so I did that so now I’m discarding that.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Are these the cards we can’t do anymore to use the flight?
+
+[Timer ends.]
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I’ll give you these three.
+[IA: N] [PFH: N] [TP: Y] [B] [B]: That’s three actions.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: Once I can give you this one, then we’ll win.
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: But I don’t know how to get this one to you.
+
+[Epidemic card drawn.]
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Oh no, another epidemic.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: Ok so now whatever-
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: So now we’ve got that.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: We have to pull three of them?
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [B]: Ok.
+
+[End of video ⅔.]
+
+[Start of video 3/3.]
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Pull a card from here.
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Cool.
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: And place three cubes on it.
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Where is it?
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Three black ones.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: What is it?
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: What is that on the board?
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: Cause we can all get to Santiago.
+
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Ok.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: But there’s already three there.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: There’s already three there.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: We already cured the disease so.
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: Alright, now it’s infected again.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: She said you can’t.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: Oh, well then nevermind.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: Yeah, I already pulled two.
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: And then I put this where?
+[IA: N] [PFH: Y] [TP: Y] [B] [B]: Over there.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: Yeah.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [G]: So we’re getting close, as long as I can give this to, or earlier I gave this to you, was not supposed to.
+[IA: Y] [PFH: Y] [TP: Y] [P] [G]: I can give this to you.
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: She said don’t worry about the rules.
+
+[IA: N] [PFH: Y] [TP: Y] [P] [B]: I don’t know if that’s exactly what she said.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: She meant worry about the rules but don’t get too stressed.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [G]: Don’t get too stressed.
+[IA: Y] [PFH: Y] [TP: Y] [P] [G]: Ok.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [B]: I don’t knowingly cheat.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: I don’t know.
+
+[Timer ends.]
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: Y] [TP: Y] [B] [G]: Ok, so.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [R]: Ok so now you can fly to me, if you want.
+
+[IA: N] [PFH: Y] [TP: Y] [B] [G]: Where are you?
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [R]: But you’d have to get rid of one card.
+
+[IA: N] [PFH: Y] [TP: Y] [D] [G]: But I only have this card.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [R]: Can you pull two cards?
+
+[IA: N] [PFH: Y] [TP: Y] [B] [G]: Yeah.
+
+[IA: Y] [PFH: Y] [TP: Y] [P] [R]: And then you could get rid of one card and follow me.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [B]: But when your turn is over.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: What?
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [B]: But you pull cards after your turn.
+
+[IA: Y] [PFH: Y] [TP: Y] [D] [R]: Oh so it’s not an action?
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [B]: No.
+
+[IA: N] [PFH: Y] [TP: Y] [B] [G]: Ok.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [B]: But next time.
+
+[IA: N] [PFH: Y] [TP: Y] [B] [G]: Ok.
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [R]: So my turn?
+
+[IA: Y] [PFH: Y] [TP: Y] [B] [B]: Yeah.
+
+[Timer ends.]
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer begins.]
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok so I’m.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: You had three yellows, didn’t you?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Yeah, I gave her all of them.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I should’ve had you give them to me because I can wipe out.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Well that’s what I said but you said give it to her.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Oh, I’m sorry.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: But we’ve already won.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We’re really close to winning.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Charter flight, I don’t know what to do, like, can I?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I just got this card.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Ok, I have this card.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: Can I get rid of this and move to Madrid?
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Or do I?
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Madrid?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: No that’s Essen, Essen.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Oh I have to go here.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Yeah.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: No, we’re not doing that.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: We’re not over there, either.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I don’t know what to do.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Move to a city containing a research station if your pawn is in a city containing a research station.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I can do that.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I’m really bummed that I let you give her those cards.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: Yeah it would have been.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: We would have been out of here.
+
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Ok.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: If you want you can give me one.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [B]: So if I drew that infector card, could I just play this and then skip it?
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Do you know what it’s talking about?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: I’m not sure.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: It says the next player playing the infector phase of their turn may skip that phase.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Yeah but you didn’t have that yet.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: I didn’t?
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Maybe not.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I don’t think you did.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Wait, I have this one.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Special event: examine the top six cards of the infection draw pile.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: And I can rearrange them.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I’m just gonna do that.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: I’m still confused what these do.
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: That was one move, now somebody else moves.
+[IA: N] [PFH: N] [TP: Y] [B] [R]: Timer’s up, right?
+
+[Timer ends.]
+
+[IA: Y] [PFH: N] [TP: N] [D] [B]: Well I know that if all of one color goes away then we lose.
+[IA: Y] [PFH: N] [TP: N] [B] [B]: I know that.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Oh really?
+
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Yeah.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: If all of?
+
+[IA: Y] [PFH: N] [TP: N] [D] [B]: If all of one color is on the board.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Infected?
+
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Yeah.
+[IA: Y] [PFH: N] [TP: N] [D] [B]: Then we lose the game.
+[IA: Y] [PFH: N] [TP: N] [B] [B]: I don’t know.
+[IA: Y] [PFH: N] [TP: N] [D] [B]: Yeah we need to get all five of the yellow ones somehow.
+[IA: Y] [PFH: N] [TP: N] [B] [B]: I don’t know.
+
+[IA: N] [PFH: N] [TP: N] [D] [R]: I don’t know where do go.
+
+[IA: Y] [PFH: N] [TP: N] [B] [G]: Ooh.
+
+[IA: Y] [PFH: N] [TP: N] [P] [B]: That’s gotta be good that I just drew those.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: Cause I have two.
+[IA: Y] [PFH: N] [TP: N] [D] [G]: But we have to draw one more.
+
+[IA: Y] [PFH: N] [TP: N] [P] [R]: You can give me one and I can have four of them.
+
+[IA: Y] [PFH: N] [TP: N] [P] [B]: So your next turn, I can give her all of them, two of them.
+
+[IA: Y] [PFH: N] [TP: N] [P] [G]: Ok cause you can give them away.
+
+[IA: Y] [PFH: N] [TP: N] [B] [B]: Yeah.
+
+[IA: Y] [PFH: N] [TP: N] [D] [G]: Alright, here we go.
+
+[B’s turn ends.]
+
+[G’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [P] [G]: I’m just gonna pull cards cause I don’t know what else to do.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Pull those cards?
+[IA: N] [PFH: N] [TP: Y] [P] [G]: Or I can put one of these on.
+[IA: N] [PFH: N] [TP: Y] [D] [G]: What do these even do?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [B]: Research station.
+
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Research station.
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: I don’t think it can do shit for us.
+
+[IA: N] [PFH: N] [TP: Y] [D] [G]: Let’s do it, ok.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [R]: Now you can pull two cards, cause you’re done.
+
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Alright, ok.
+[IA: N] [PFH: N] [TP: Y] [B] [G]: Go ahead.
+
+[Timer ends.]
+
+[G’s turn ends.]
+
+[R’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I don’t know what to do, like.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I can give you these.
+[IA: N] [PFH: N] [TP: Y] [D] [R]: I’m like stuck right now.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I don’t want to move, it’s like I can’t move.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Wait to wipe out, don’t we have to be on that country?
+
+[IA: N] [PFH: N] [TP: Y] [D] [R]: Mine just says that you need only four cards of the same color.
+
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I should have flown with my yellows.
+[IA: Y] [PFH: N] [TP: Y] [P] [G]: I should have flown over there.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Ok so to wipe out the disease, we have to be in the country?
+
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Do we?
+[IA: Y] [PFH: N] [TP: Y] [B] [G]: Let me ask her.
+
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I can discard a matching one to the current.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: I can discard this one to whatever research station.
+[IA: N] [PFH: N] [TP: Y] [P] [R]: If I have four of these cards can I just knock out the cure?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: We don’t need to be over there?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [B]: Ok so is it my turn yet?
+
+[Timer ends.]
+
+[R’s turn ends.]
+
+[B’s turn begins.]
+
+[Timer starts.]
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: Then I’ll just give you these two and then we cured it.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [R]: Yeah we cured the whole damn countries.
+[IA: Y] [PFH: N] [TP: Y] [B] [R]: Sweet, cured.
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: Wait, she has to wait her turn to cure, right or no?
+
+[IA: N] [PFH: N] [TP: Y] [B] [B]: What’s that?
+
+[IA: Y] [PFH: N] [TP: Y] [D] [G]: It doesn’t really matter.
+
+[IA: N] [PFH: N] [TP: Y] [D] [B]: I don’t know if we legitimately won, but.
+
+[End of game.]
